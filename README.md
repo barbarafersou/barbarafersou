@@ -1,7 +1,7 @@
 ### Olá! Chamo-me Bárbara Fernandes 
 
 - 🌱 Estou começando na programação
-- 👯 Estudando backand 
+- 👯 Estudando back-end 
 - 😄 Pronouns: Ela/Dela
 
 <a href = "mailto:barbara28fs@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
